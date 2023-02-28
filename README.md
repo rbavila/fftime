@@ -1,6 +1,6 @@
 # fftime
 
-Python class to deal with time stamps in the format used by FFmpeg ([[hh:]mm:]ss[.mmm]).
+Python class to handle time stamps in the format used by FFmpeg ([[hh:]mm:]ss[.mmm]).
 
 ## Usage examples:
 
